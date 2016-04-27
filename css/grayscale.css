@@ -93,7 +93,7 @@ a:focus {
 }
 
 .navbar-custom a {
-    color: #BD1B1B;
+    color: #f5f5f5;
 }
 
 .navbar-custom .nav li a {
@@ -152,7 +152,6 @@ a:focus {
     text-align: center;
     color: #FFF;
     background: url(../img/Savage-state.jpg) no-repeat bottom center scroll;
-    background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
