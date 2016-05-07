@@ -1,4 +1,4 @@
-## James Winestock Portfolio Design Guide
+## James Winestock Portfolio Design Guide##
 ---
 I have opted to make my my Portfolio site a simple, one page site in order to reduce clutter and increase the ease of finding useful information about me.
 ---
