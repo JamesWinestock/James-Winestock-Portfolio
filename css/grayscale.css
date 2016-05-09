@@ -9,10 +9,7 @@ body {
     height: 100%;
     font-family: Copperplate / Copperplate Gothic Light, sans-serif;
     color: #FFFFFF;
-    background-color: #004080;
-    background: #2980b9; /* fallback for old browsers */
-    background: -webkit-linear-gradient(to left, #2980b9 , #2c3e50); /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to left, #2980b9 , #2c3e50); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background-color: #005656;
 }
 
 html {
@@ -268,8 +265,8 @@ a:focus {
     width: 100%;
     padding: 100px 0;
     color: #fff;
-    background-color: #333333;
-    background: #333333; /* fallback for old browsers */
+    background-color: #293131;
+    background: #293131; /* fallback for old browsers */
     /*background: -webkit-linear-gradient(to left, #50C9C3 , #96DEDA); /* Chrome 10-25, Safari 5.1-6 */*/
     /*background: linear-gradient(to left, #50C9C3 , #96DEDA); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     -webkit-background-size: cover;

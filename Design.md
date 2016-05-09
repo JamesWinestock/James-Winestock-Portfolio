@@ -8,3 +8,4 @@ I have used the *Greyscale* Bootstrap theme as the template for my site. I liked
 ---
 The rest of my page uses few images and large, readable text. The aim is to make information easily accessible and uncluttered. Large buttons help make it easy and intuitive for users to navigate to my Twitter, Github and LinkedIn.
 ---
+I consulted *Color Lovers* to find a color pallet that worked with the Green of my Hero image and found #005656 (Coccothrinax gel) and #293131 (Dusty mono).
